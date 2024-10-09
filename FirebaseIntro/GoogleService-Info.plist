@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAB8rpHrF2Q2yYr42t4v4JkL8QtXdIMO5A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>394625017499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clemond.FirebaseIntro</string>
+	<key>PROJECT_ID</key>
+	<string>fir-introswiftui</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-introswiftui.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:394625017499:ios:e4b16ef17b81031dd7c83e</string>
+</dict>
+</plist>
